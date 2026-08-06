@@ -52,7 +52,7 @@
 
 #
 
-<p align="center"><img src="https://github.com/202280080bot.png" width="150" style="border-radius:50%">
+<p align="center"><img src="https://github.com/202280080-bot.png" width="150" style="border-radius:50%">
 
 <p align="center"><b>Apilan, Mary Mae M.
 <p align="center"><b>202280080@psu.palawan.edu.ph
